@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import { Globe, MailIcon, MapPin, MessageCircle, UserIcon, ZapIcon } from "lucide-react";
 export default function Home() {
 return (
   <div>
